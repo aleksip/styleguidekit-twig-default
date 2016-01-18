@@ -31,12 +31,16 @@
 		{
 			"type": "vcs",
 			"url": "https://github.com/aleksip/patternengine-php-twig"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/aleksip/styleguidekit-assets-default"
 		}
 	],
 	"require": {
 		"pattern-lab/core": "dev-shila-drupal-theme",
 		"pattern-lab/patternengine-twig": "dev-shila-drupal-theme",
-		"pattern-lab/styleguidekit-assets-default": "0.*",
+		"pattern-lab/styleguidekit-assets-default": "dev-shila-drupal-theme",
 		"twig/twig": "1.*"
 	}
 }
